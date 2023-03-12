@@ -1,0 +1,51 @@
+[
+  {
+    "amount": 50.42,
+    "category": ["Food and Drink", "Restaurants"],
+    "date": "2029-01-01",
+    "merchant_name": "Crepevine",
+    "id": 0
+  },
+  {
+    "amount": 19.43,
+    "category": ["Shops", "Supermarkets and Groceries"],
+    "date": "2029-01-03",
+    "merchant_name": "Whole Foods",
+    "id": 1
+  },
+  {
+    "amount": 0.35,
+    "category": ["Shops", "Digital Purchase"],
+    "date": "2029-01-05",
+    "merchant_name": "Amazon",
+    "id": 2
+  },
+  {
+    "amount": 3.17,
+    "category": ["Travel", "Car Service", "Ride Share"],
+    "date": "2029-01-05",
+    "merchant_name": "Lyft",
+    "id": 3
+  },
+  {
+    "amount": 2.26,
+    "category": ["Food and Drink", "Restaurants"],
+    "date": "2029-01-06",
+    "merchant_name": "Space Bar",
+    "id": 4
+  },
+  {
+    "amount": 2742.93,
+    "category": ["Payments", "Rent"],
+    "date": "2029-01-06",
+    "merchant_name": "Avalon Mountain View",
+    "id": 5
+  },
+  {
+    "amount": 174.48,
+    "category": ["Shops", "Digital Purchase"],
+    "date": "2029-01-06",
+    "merchant_name": "Amazon",
+    "id": 6
+  }
+]
