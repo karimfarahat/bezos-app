@@ -27,7 +27,7 @@ function TransactionStats() {
     .replace(/[.,]0$/, "");
 
   return (
-    <div className="righty">
+    <div className="righty-header">
       <h4>{transaction.length} transactions</h4>
       <h4>Ahmed's expenditure on Bezos': $ {isNaN(average) ? 0 : average}</h4>
       <h4>
